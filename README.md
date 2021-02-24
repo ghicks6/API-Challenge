@@ -8,7 +8,7 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![Equator](README_images/equatorsign.png)
+![Equator](Images/equatorsign.png)
 
 ### Before You Begin
 
@@ -65,7 +65,7 @@ Now let's use your skills in working with weather data to plan future vacations.
 
 * Create a heat map that displays the humidity for every city from the part I of the homework.
 
-  ![heatmap](README_images/heatmap.png)
+  ![heatmap](Images/heatmap.png)
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
@@ -83,4 +83,4 @@ Now let's use your skills in working with weather data to plan future vacations.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](README_images/hotel_map.png)
+  ![hotel map](Images/hotel_map.png)
